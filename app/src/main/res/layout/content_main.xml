@@ -33,7 +33,7 @@
         android:digits="0123456789."
         android:ems="10"
         android:inputType="numberDecimal"
-        android:text="172.16.1.4"
+        android:text="172.16.1.2"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
